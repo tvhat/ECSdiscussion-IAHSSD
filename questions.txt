@@ -1,0 +1,43 @@
+Questions per session 
+
+These are the questions that served as input for the discussion. The questions evolved over the course of the six discussion sessions. To provide insight in this evolution, the questions are presented below per session. These questions were discussed in small groups, after which answers were shared in a plenary round and discussed together.
+
+Session 1 to 3 (Wageningen University and Research, Technische Universiteit Delft, Luxembourg Institute of Science and Technology) 
+	What is a paper all members of your group could collaborate on? 
+	What is the bigger theme around this paper? Is this suitable as a theme for a hydrological decade? 
+	What do you expect to be key words for hydrology in the near future? 
+	What should be the focus of the next hydrological decade? 
+
+Session 4 (Karlsruhe Institute of Technology) 
+	What do you expect to be key words for hydrology in the near future? 
+	What should be the focus of the next hydrological decade? 
+	Which of these themes do you think are relevant for the next decade? 
+		Modelling for food security 
+		Adaptation to the intensification of the hydrological cycle 
+		Tipping points in hydrology 
+		Integration of diverse data into models 
+		Interdisciplinary solutions for deltas under stress 
+		Multi/transdisciplinarity in hydrology: Enhancing the connection between science and engineering 
+	What do you think is missing from this list? 
+
+Session 5 (University of Zürich) 
+	Which themes could you form within these categories? 
+		Climate change – Extremes – Droughts – Floods – Intensified water cycle – Tipping points 
+		Machine learning – AI – Big data – Citizen science – Open science – Remote sensing 
+		Inter/multidisciplinarity – Science+engineering 
+		Impacts – Water-Food-Energy – Nature-based solutions 
+		Vulnerable areas – Scaling – Human impact 
+	Feel free to add or mix & match! 
+
+Session 6 (University of Freiburg) 
+	Themes 
+		Tipping points and thresholds in hydrology 
+		Intensification of the hydrological cycle 
+		Water, food, and energy security 
+	Trends 
+		Big data 
+		Bridging science and practice 
+		Open science 
+		Inter- and multidisciplinarity 
+	Do you agree with the themes and trends? 
+	What would be the research questions tackled in the proposed themes? 
